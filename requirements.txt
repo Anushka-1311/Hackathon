@@ -4,4 +4,3 @@ torch
 diffusers==0.27.1
 groq==0.4.2
 transformers==4.33.0
-base64
